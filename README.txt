@@ -1,0 +1,1 @@
+For this project I implemented some basic methods for a few data structures: hashtable, heap, stack, tree, vector.These are found in the data_struct folder. It also has a testing unit, which evaluates each function. It is found in the test_lib folder.
